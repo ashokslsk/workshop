@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987979414297",
+    "project_id": "allinone-7f1e7",
+    "storage_bucket": "allinone-7f1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987979414297:android:9e541463bc232e714ca388",
+        "android_client_info": {
+          "package_name": "com.androidabcd.allinone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcCVW3lQlmLBSGqWDrFOM_Q6UBjHgfKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
